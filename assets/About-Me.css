@@ -61,12 +61,13 @@
 		background-position: 0% 50%;
 	}
 }
-/* 
-img {
-  height:400px;
 
-} */
-
+.section-title {
+  padding:10px;
+  margin:10px;
+  font-size: 50px;
+  text-align: center;
+}
 /* IMAGE SLIDESHOW STYLING */
 *{box-sizing:border-box}
 
@@ -162,4 +163,14 @@ img {
 @keyframes fade {
   from {opacity: .4} 
   to {opacity: 1}
+}
+
+/* PARAGRAPH STYLING */
+
+.p1 {
+  padding:20px;
+}
+
+.p2 {
+  padding:20px;
 }
