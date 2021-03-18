@@ -39,7 +39,7 @@
   .header-image {
     width:auto;
     height:350px;
-    background: url("");
+    background: url("./images/Contact-Header.jpg");
     background-size: cover;
     background-position: 100%;
   }
