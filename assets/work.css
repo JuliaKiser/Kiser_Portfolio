@@ -50,6 +50,7 @@
     background: linear-gradient(-45deg, #1629ccdc, #1c86e9, #d5fc48, rgb(238, 92, 7), rgb(236, 7, 7)),yellow;
       background-size: 400% 400%;
     animation: gradient 15s ease infinite;
+    height:500vh;
   }
   
   @keyframes gradient {
@@ -63,3 +64,16 @@
           background-position: 0% 50%;
       }
   }
+
+  /* CARD STYLING */
+  /* section {
+      display:flex;
+      flex-direction: row;
+      padding:10px;
+      margin-top:200px;
+      justify-content: center;
+      align-items: center;
+      min-height: 200px;
+  } */
+
+ 
