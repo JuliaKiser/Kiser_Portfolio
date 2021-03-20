@@ -101,7 +101,7 @@
   }
 
   .fa-file {
-    background-color: rgb(240, 223, 130);
+    background-color: white;
     color:rgb(7, 1, 1);
     border-radius: 50%;
     
@@ -110,12 +110,8 @@
     background-color: rgb(255, 230, 0);
   }
 
- .fa-sms:hover  {
-   background-color: teal;
- }
-
 .fa-envelope-open-text {
-  background-color: rgb(241, 52, 19);
+  background-color: rgb(153, 153, 153);
   color:black;
   border-radius: 50%;
 }
@@ -123,7 +119,7 @@
   background-color: tomato;
 }
 .fa-linkedin {
-  background-color: royalblue;
+  background-color: rgb(79, 80, 82);
   color:black;
   border-radius: 50%;
 }
@@ -131,8 +127,8 @@
   background-color: rgb(0, 0, 148);
 }
 .fa-github {
-  background-color: seagreen;
-  color:black;
+  background-color: black;
+  color:white;
   border-radius: 50%;
 }
 .fa-github:hover {
