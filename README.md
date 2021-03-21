@@ -33,15 +33,6 @@ Github Repo Link: https://github.com/JuliaKiser/Kiser_Portfolio
 ![Kiser Portfolio](./assets/images/Updated.Portfolio.gif)
 
 
-
-## User Story
-AS A marvel fan or spectator 
-I WANT TO select a popular marvel character
-SO THAT I can view gif/image of character
-AS WELL AS choose to watch movie trailer 
-OR discover more of marvel characters
-SO THAT I can learn more about the world of marvel
-
 ## Requirements
 * Submit an updated portfolio featuring Project 1 and two exemplary homework assignments.
 
