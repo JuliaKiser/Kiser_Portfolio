@@ -107,7 +107,8 @@
     
   }
   .fa-file:hover {
-    background-color: rgb(255, 230, 0);
+    background-color: black;
+    color:white;
   }
 
 .fa-envelope-open-text {
@@ -116,7 +117,7 @@
   border-radius: 50%;
 }
 .fa-envelope-open-text:hover {
-  background-color: tomato;
+  background-color: rgb(79, 80, 82);
 }
 .fa-linkedin {
   background-color: rgb(79, 80, 82);
@@ -124,7 +125,7 @@
   border-radius: 50%;
 }
 .fa-linkedin:hover {
-  background-color: rgb(0, 0, 148);
+  background-color: rgb(153, 153, 153);
 }
 .fa-github {
   background-color: black;
@@ -132,5 +133,6 @@
   border-radius: 50%;
 }
 .fa-github:hover {
-  background-color: darkgreen;
+  background-color: white;
+  color:black;
 }
