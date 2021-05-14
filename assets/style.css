@@ -32,9 +32,8 @@ button {
   border-radius: 12px;
   padding: 12px 28px;
   font-size: 16px;
-  border-style: solid !important;
-  border-color: rgb(53, 90, 190) !important;
-  border: 11px !important;
+  border-style: 11px solid;
+  border-color: rgb(53, 90, 190);
 }
 
 button:hover {
@@ -42,7 +41,6 @@ button:hover {
   color: white;
   border-style: solid;
   border-color: white;
-  border: 11px;
 }
 
 .profilepic {
